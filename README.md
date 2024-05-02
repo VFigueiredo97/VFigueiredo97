@@ -16,7 +16,9 @@ Aqui no meu GitHub, você encontrará meus projetos que estão sendo feitos dura
 Se você quiser se conectar ou tiver dicas para compartilhar sobre desenvolvimento de sistemas, fique à vontade para entrar em contato comigo:
 
 Email: victor.figueiredos97@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/victor-figueiredo-2a1220158/
+
 Obrigado por visitar meu repositório!
 
 
