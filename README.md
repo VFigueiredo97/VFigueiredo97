@@ -3,7 +3,9 @@
 
 **Sobre Mim:**
 🌱 Atualmente estou aprendendo linguagens de programação como JavaScript e Python
+
 💼 Tenho experiência em gerenciamento de projetos e quero aplicar essas habilidades no desenvolvimento de software
+
 🎯 Meu objetivo é aprender cada vez mais sobre desenvolvimento web, automação e ferramentas DevOps
 
 **Projetos**
