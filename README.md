@@ -2,7 +2,8 @@
 **Me chamo Victor Figueiredo**
 
 **Sobre Mim:**
-🌱 Atualmente estou aprendendo linguagens de programação como JavaScript e Python
+
+💻 Atualmente estou aprendendo linguagens de programação como JavaScript e Python
 
 💼 Tenho experiência em gerenciamento de projetos e quero aplicar essas habilidades no desenvolvimento de software
 
